@@ -1,0 +1,20 @@
+---
+title: "Shreya Mukhopadhyay"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:mshreyacr7@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/shreya-mukhopadhyay-078344203/
+---
+
+I am a Research Analyst at Excelra Knowledge Solutions. I have completed my Graduation in Microbiology in the year 2019 from Acharya Prafulla Chandra College followed by Post Graduation in Microbiology from the same Institute in the year 2021.
+
+I love to explore the diverse areas of Life Sciences and establish relationships between one domain and another. My research interest revolves around proteomics and its relationship with neuroscinece and other areas of Life Sciences and its applications in fundamental improvement of living.
+
+Through my work, I get to read and analyze the ongoings and advancements in the field of Life Sciences.
+

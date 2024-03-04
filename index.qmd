@@ -1,0 +1,14 @@
+---
+title: "Welcome to my blogs!"
+listing:
+  contents: posts/*/index.qmd
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: true
+  filter-ui: false
+  fields: [date,title,categories]
+title-block-banner: true
+---
+
+
