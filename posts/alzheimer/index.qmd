@@ -1,0 +1,56 @@
+---
+title: "Understanding Alzheimer's Disease: From Pathology to Prevention and Resilience"
+author: "Shreya Mukhopadhyay"
+date: "2024-02-19"
+categories: [Neuroscience, Proteomics]
+---
+Explore the complex world of Alzheimer's disease, from its neurological origins to lifestyle factors that can prevent or delay its onset. Discover how cognitive reserve and neuronal plasticity play crucial roles in resilience against this debilitating condition
+
+# Introduction
+Alzheimer’s disease (AD) or senial dementia is a disorder that is characterized by a lack of memory and cognitive skills and it gets worse with time. It results from deposits of certain proteins in the brain. AD is a neurodegenerative disease that progressively worsens memory, thinking, learning and organizing skills. Whether AD can be cured, stopped or reversed and if yes how, is a question that is still under rigorous research. However, it has been observed that certain practices can prevent or delay the onset of AD.
+
+Alzheimer’s disease appears to be our brain’s destiny. Statistics show that about 10% of people above 65 years of age and as high as 50% of people above 85 years of age have AD. However, these stats can be changed without relying on a cure or advancements of medicines. To understand how, it is necessary to have some idea about the neuroscience of this disease.
+
+# How is AD caused? 
+Our brain has a kind of cells called neurons which are responsible for sending messages all over the body and direct the various functionalities of the body. These neurons are connected with each other by some blank spaces called synapses. These synapses are the region through which messages, which are basically some chemicals called neurotransmitters, pass from one neuron to another. These synapses are the spaces where all the communication happens. This is where we get information to see, hear, think, feel and remember. This is the site where AD happens.
+
+Along with releasing neurotransmitters into the synapses, the neurons also release a protein called Amyloid $\beta$ or A$\beta$ in the synapse. Normally, A$\beta$ are cleared away or metabolized by the microglia, the flusher cells of our brain. The failure of microglia to flush out A$\beta$ results in accumulation of A$\beta$ in the synapse region. If too much A$\beta$ is released or if not enough of it is cleared away, then A$\beta$ piles up in the synapse. What follows is the A$\beta$ binds with each other forming sticky aggregates called amyloid plaques.
+
+
+# Progression of the disease
+It is believed that it takes about 15-20 years of Aβ accumulation to hit the tipping point at which the clinical symptoms of AD start to appear. So, we can expect the onset of the aggregation from about 40 years of age. At this point, we are blissfully unaware of the development of the disease inside our brains. However, this can be detected and confirmed by a PET scan.
+
+Prior to reaching this tipping point, some incidences of lack of memory might occur like unable to recall why I came in this room, where I kept the car keys, I plugged in my cell phone charger and forgot to turn on the switch etc. These are all considered as normal kinds of forgetting. These are not at all categorized as lack of memory because we might not be paying attention to these details in our daily life. After hitting the tipping point, the lack of memory is not just limited to memory changes but it also affects behavioral patterns. Example, instead of keeping my car keys on the study table, or the coat pocket, I might be keeping them inside the refrigerator!
+
+What actually happens when these Aβ accumulate up to the tipping point is that the microglia become hyperactive, releasing chemicals that cause inflammation and cellular damage. As a response to this, a crucial transport protein present inside the neurons called Tau protein twists itself into tangles which result in choking of the neurons from the inside. The mid-stage AD is characterized by the presence of massive inflammation and tangles which robustly causes cell death. 
+
+# Target of AD curing components
+All the research regarding cure of AD involves holding back the accumulation of Aβ from reaching the tipping point. This suggests that drug discovery is largely focused on development of a component that will prevent, reduce or eliminate Aβ accumulation. This implies that the medicines of AD will be preventative medicines. That means we will have to consume them before we start showing any clinical symptoms of AD.
+
+However, it has been observed that the way we live can influence the symptoms of AD irrespective of whether Aβ has reached its tippling point.
+
+# Healing AD with life style changes
+One of the ways in which prevention of AD can be achieved by improving life style is getting good sleep. It has been established in various studies that slow waved deep sleep can prevent accumulation of Aβ. How this can be attained is during slow waved deep sleep, the microglia extensively function in clearing off all the Aβ that have accumulated in our synapses while we were awake. So, deep sleep acts as a power cleanse for our brains. Poor sleep habit results in accumulation of Aβ and accumulation of Aβ causes more disruption of sleep which in turn further leads to Aβ accumulation. So, here this positive feedback loop accelerates the tipping up of Aβ.
+
+It has been observed that above 80% of people who have AD also have poor cardiovascular health. High blood pressure, obesity, high cholesterol, smoking has all been shown to increase the risk of development of AD. So, a heart healthy lifestyle and diet can help to counter the tipping up of the disease.
+
+# Genetic basis of AD
+Also, there is a genetic basis of AD that has been established in some studies. A gene called APOE gene is known to be associated with the onset of AD. Although, there are other genes involved, but the individuals exhibiting APOE $\varepsilon 4$  genotype are at a higher risk of AD and an even worse outcome can be seen after a head trauma and stroke. The frequency of APOE $\varepsilon 4$  varies among different ethnic groups, but irrespective of the ethnic groups, APOE $\varepsilon 4^{-}$  has been found mostly in people who don’t show any pathology of AD and APOE $\varepsilon^{+}$ is more frequent in AD patients.
+
+# Countering AD symptoms with cognitive behavior
+So, there are many things that can be done to prevent or delay the onset of the disease. But what if we haven’t done any of these?
+
+Let’s suppose, someone is at 65 years of age and there is AD in his family, so he has likely inherited the genes for the disease. He has been staying up late nights for years. He loves eating spicy, heavy food and has no habit of doing any exercise to keep himself healthy. Let’s say this person has reached his tipping point of Aβ accumulation, causing inflammation, tangles and cell death of neuronal cells. So, this person is symptomatic for AD, thus facing difficulty in remembering things, doing his daily life activities and selecting words to say what he feels!
+
+But there is one more way to protect oneself from experiencing the symptoms of AD even when there is the presence of all the disease pathologies in his brain. This has something to do with the neuronal plasticity and cognitive reserve. Neuronal plasticity is the ability of the nervous system to modify its activities in response to intrinsic and extrinsic signals by reorganizing its structure, functions and connections. Cognitive reserve is the mind’s ability to flexibly use the brain’s available resources to improvise and find alternate ways to perform various tasks.
+
+Let’s recall that the experience of AD is a result of losing synapses. An average brain has hundreds of trillions of synapses. Now there is no fixed number to this. We keep on gaining and losing synapses all the time through the process called neuronal plasticity. Every time we learn something new, we are creating and strengthening new neural connections, i.e., new synapses.
+
+A study performed on over 600 Nuns, all above the age of 75 years were observed for over two decades. Physical checkups and cognitive tests were regularly performed on them. When they died, their brains were donated for autopsy. Some of these brains showed a very surprising observation. Despite the presence of plaques, tangles and brain shrinkage, which would definitely result into AD, the Nuns to whom those brains belonged showed no sign of the disease when they were alive! Researchers believe that this is because these Nuns had high levels of cognitive reserve, i.e., they had more functional synapses.
+
+People who have more years of formal education, high degree of literacy, who engage regularly in mentally stimulating activities, all have rich cognitive reserve. They have an abundance of neural connections. So, even if they have clinical AD which compromise some of their synapses, they have many extra back-up connections and this buffers them from noticing anything missing. This makes them capable of being resilient to AD through recruitment of still undamaged pathways. These pathways are created by building more cognitive reserve, by learning new things.
+
+# Conclusion
+So, from the above discussions, building an Alzheimer’s disease resistant brain means learning to speak a new language, making new friends, reading diverse books or listening to great podcasts, all contributing to enrich the knowledge reserve of the brain. 
+
+Even after doing all these, if a person is diagnosed with AD doesn’t mean he will be dying soon. This person will still have active emotional memory, i.e. the person might not remember what someone said a few minutes ago but he will definitely remember how someone made him feel!

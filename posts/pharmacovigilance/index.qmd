@@ -1,0 +1,48 @@
+---
+title: "Pharmacovigilance: Safeguarding Drug Safety and Public Health"
+author: "Shreya Mukhopadhyay"
+date: "2021-05-20"
+categories: [Pharmacovigilance]
+---
+Explore the critical role of pharmacovigilance in ensuring drug safety and patient health in this post. Delve into the history of pharmacovigilance, its procedures, and why it's essential for safeguarding against adverse drug reactions.
+
+# Introduction
+The word Pharmacovigilance has been derived from a Greek word and a Latin word. The Greek word ‘Pharmakon' means ‘drug' and the Latin word ‘Vigilare' means ‘Close Watch'. So, the word Pharmacovigilance means to keep a close watch on a drug after it has been launched into the market. The launched product has to undergo the Pharmacovigilance activities throughout its life cycle, i.e., from its release into the market till the day it continues to be consumed by the global population.
+
+Pharmacovigilance is a pharmacological science and it includes the activities related to the 
+ 
+- Monitoring  
+- Detection  
+- Assesment  
+- Understanding  
+- Prevention of ADRs (Adverse Drug Reactions) or any long term or short-term medicine-related problems.   
+
+Pharmacovigilance is necessary on humanitarian grounds. If a person is sick and he has to take a drug, then his death due to his illness is reasonable, but dying from the drug is definitely not acceptable. 
+
+ADR is the 6th leading cause of death all over the globe. In US, 3-7% and in UK, 1% ADR patients require hospitalization. India is the 4th leading producer of prescription medicines in the world, so the incidences of ADR are very high in India as well.
+
+# Thalidomide Disaster
+The classic Thalidomide Disaster marked the sheer need and the very beginning of Pharmacovigilance. The drug Thalidomide was initially introduced to manage sleep disorders, anxiety disorders and morning sickness in pregnant women. But after its administration in pregnant women, many birth defects were reported during and post delivery. Around 10000 embryos were affected, of which 40% children eventually died and 60% of the embryos which gave successful births developed some malfunctions in the limb or eye or other part of the body. 
+
+After this disaster, it was realized that there is a serious need to keep an eye on the functionalities of a drug even after its release. Moreover, economically it is always desirable to take drugs which will not lead to ill-effects or serious sickness leading to hospitalization which will lead to additional cost. So, the aim of Pharmacovigilance is to be in a healthy condition after taking a drug.
+
+# Procedure in brief
+During the development of a drug, the pre-clinical trials are done in animals which focus only on certain aspects of the drug like acute toxicity, organ damage, dose-dependence, metabolism and kinetics. Further during human clinical trials in Phase-I, II and III, the drug is tested in non-patient healthy volunteers in a very small number of individuals (hundreds to thousands), whereas the global population is in billions.  Also the trials are not very long. After that a follow up is done but that does not give the actual adverse effects profile of a drug.
+
+After the clinical trials, the drug goes to the regulatory board and is launched into the market after being approved. The company then conducts the Phase IV studies regarding the safety parameter and the safety and efficacy data where the safety issues are determined by the market authorization holders. In this phase, the PSU (Periodic Safety Update) reports and active post-marketing surveillance are conducted. 
+
+# Why Pharmacovigilance is necessary?
+Here, the question arises that why it is necessary to conduct these trials after the drug has been launched. Do the clinical trials have not looked into all the safety aspects of the drug? The answer to this question is a small ‘yes' and a big ‘no'. This is because, in the trials conducted before the product launch, the duration is very less, the tested-individual profile is less and most importantly, the trials include in-patient volunteers. So, these do not indicate the entire side effect profile of a drug. 
+
+Once the global population starts consuming the drug for their respective diseases, where the patients may or may not be taking other concomitant drugs, the test drug may start showing new side effects or a known side effect in a greater quantity or drug-drug interactions. This happens because the global population consists of different kinds of people having different genetic make-up, moreover health is very individual specific (a concept which is gaining much focus in recent times), and so bodies of different individuals may respond and react differently in different individuals. Moreover, a patient suffering from a chronic disease will take the drug for a long time, probably throughout his lifetime. These long-term effects are not studied and checked during trials. 
+So far in this article, the negative side effects of a drug have been discussed. In general also, we usually discuss negative side effects of a drug only. But there exists positive side effects too. The most well-known positive effect is that of Sildenafil, a drug which was initially being trialled for reducing blood pressure. But in the clinical trial, it was seen that the drug induces penile erections. So, Pfizer, which was conducting this clinical trial, repositioned this drug for treatment of erectile dysfunction. 
+
+# Signal Detection
+In Pharmacovigilance, an indispensable term is Signal Detection which deals with the reported information for drug associated symptoms from the consumers and the physicians to the market authorization holders or regulatory authorities for which forms are available in the WHO official website where the details of the consumer, the drug which is suspected for the caused symptoms, the disease of the consumer, whether the consumer is taking any concomitant medicine etc. are to be filled and submitted.
+
+The known symptoms of every drug are always enlisted in the packet of the drug. But if any other effect is observed which is not already known or documented, then that information is very useful. If it is completely new, then based on the reports further pharmacovigilance activities are performed and decision is taken of whether to ban the product, reposition it or continue its usage by adding the symptom in the packet. The pharmacovigilance activities are performed on the basis of the frequency of the reported cases for the particular ADR associated with the particular drug. The aim of the drug regulators is to reduce the morbidity and mortality rates associated with a particular drug.
+
+# Conclusion
+Pharmacovigilance is a beautiful step towards patient’s safety. But in India, due to the lack of awareness and literacy, many of the side effects associated with a particular drug go unnoticed and unreported. Mostly it is thought that the effect will go away and so reporting is not given much importance.
+
+So, the take home message from this article is to create as much awareness as possible. The government and health care organizations are taking many initiatives to ensure the health and safety of the population. But as long as the common people are not aware of their roles and duties in supporting these activities, no initiative can achieve success. As more and more people become aware and vigilant about the drugs they are consuming, the day is not far when the Nation’s health will be ensured to a high degree. 

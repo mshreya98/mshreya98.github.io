@@ -8,7 +8,7 @@ website:
       - text: About
         href: about.qmd
       - text: CV
-        href: shreya-cv.pdf
+        href: ./assets/shreya-cv.pdf
         target: blank
     right:
       - icon: envelope-at-fill
